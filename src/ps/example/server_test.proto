@@ -63,8 +63,8 @@ worker_param {
 
 fs_client_param {
     uri: "afs://xingtian.afs.baidu.com:9902"
-    user: "mlarch_rd"
-    passwd: "Fv1M87"
+    user: "******"
+    passwd: "******"
     hadoop_bin: "/home/work/local/hadoop-client-1.5.9/hadoop/bin/hadoop"
 }
 
